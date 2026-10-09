@@ -98,15 +98,18 @@ Me apasiona la **arquitectura de software** y el **análisis** para crear tecnol
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Braxlo&bg_color=0B1D2A&color=22D3EE&line=0E7490&point=67E8F9&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://gh-heat.anishroy.com/api/Braxlo/svg?theme=blue&darkMode=true&transparent=true" alt="Contribution heatmap" width="100%" />
 </div>
 
 ---
 
-## Trofeo & actividad
+## Resumen de actividad
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Braxlo&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Braxlo&theme=radical" alt="Stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Braxlo&theme=radical" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Braxlo&theme=radical" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Braxlo&theme=radical&utcOffset=-5" alt="Productive time" />
 </div>
 
 <br />
@@ -114,11 +117,7 @@ Me apasiona la **arquitectura de software** y el **análisis** para crear tecnol
 ### Contribuciones animadas
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Braxlo/Braxlo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Braxlo/Braxlo/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Braxlo/Braxlo/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Braxlo/Braxlo/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -140,7 +139,7 @@ Me apasiona la **arquitectura de software** y el **análisis** para crear tecnol
 
   <br /><br />
 
-  <img src="https://quote-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
 </div>
 
