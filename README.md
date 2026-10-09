@@ -1,19 +1,25 @@
-<!-- Banner animado -->
+<!-- Banner: más alto, letras más claras y mejor espaciado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D2A,50:0E7490,100:22D3EE&height=200&section=header&text=Braxlo&fontSize=72&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Brayam%20Max%20Yauri%20Villajuan&descAlignY=55&descSize=20&descColor=A5F3FC" width="100%" alt="Braxlo banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:07090D,40:0E7490,100:3ECFBF&section=header&text=Braxlo&font=Verdana&fontSize=58&fontColor=F7F3E8&fontAlignY=38&desc=Brayam%20Max%20Yauri%20Villajuan&descAlignY=58&descSize=18&descColor=E4D2A0&animation=fadeIn&stroke=3ECFBF&strokeWidth=1" width="100%" alt="Braxlo banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=50&lines=Arquitectura+de+Software+%7C+Automatizaci%C3%B3n;Full+Stack+Developer+%7C+TypeScript+%26+Django;Construyendo+herramientas+que+ahorran+tiempo" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-07090D?style=for-the-badge&logo=nextdotjs&logoColor=3ECFBF" alt="Rol" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3ECFBF&center=true&vCenter=true&width=820&height=45&lines=Arquitectura+%26+Automatizaci%C3%B3n;Full+Stack+%C2%B7+NestJS+%26+TypeScript;Herramientas+que+ahorran+tiempo" alt="Typing SVG" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Lima%2C%20Per%C3%BA-0B1D2A?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Lima%2C%20Per%C3%BA-07090D?style=for-the-badge&logo=googlemaps&logoColor=3ECFBF" alt="Ubicación" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-0E7490?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Disponible" />
   <a href="https://github.com/Braxlo">
-    <img src="https://komarev.com/ghpvc/?username=Braxlo&label=Profile%20views&color=0891b2&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Braxlo&label=Profile%20views&color=3ecfbf&style=for-the-badge" alt="Profile views" />
   </a>
 </div>
 
