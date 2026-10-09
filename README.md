@@ -39,16 +39,16 @@ Me apasiona la **arquitectura de software** y el **análisis** para crear tecnol
 | Área | Enfoque |
 | :--- | :--- |
 | **Arquitectura** | Estructuras limpias, mantenibles y listas para crecer |
-| **Full Stack** | APIs + interfaces con TypeScript y Django |
-| **Automatización** | Herramientas que reducen fricción y trabajo repetitivo |
-| **Producto** | Soluciones prácticas: notas, gestión y trámites |
+| **Full Stack** | APIs + interfaces con TypeScript, NestJS y Django |
+| **Automatización** | Flujos e integración que reducen fricción operativa |
+| **Producto** | Soluciones para restaurantes, gestión y monitoreo |
 
 ---
 
 ## Stack tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,python,django,html,css,tailwind,postgres,git,github,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,python,django,mysql,postgres,tailwind,git,github,vscode&theme=dark" alt="Tech stack" />
 </div>
 
 <br />
@@ -57,10 +57,10 @@ Me apasiona la **arquitectura de software** y el **análisis** para crear tecnol
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -72,11 +72,12 @@ Me apasiona la **arquitectura de software** y el **análisis** para crear tecnol
 
 | Proyecto | Qué es | Stack |
 | :---: | :--- | :---: |
-| [**notes-frontend**](https://github.com/Braxlo/notes-frontend) + [**notes-backend**](https://github.com/Braxlo/notes-backend) | App de notas full stack (cliente + API) | TypeScript |
+| [**ProyectoRTS**](https://github.com/Braxlo/ProyectoRTS_FE) · [backend](https://github.com/Braxlo/ProyectoRTS_backend) | Sistema multi-tenant de gestión de restaurantes | NestJS / Next.js / MySQL |
+| [**restaurante_FT**](https://github.com/Braxlo/restaurante_FT) | Dashboard UI/UX para stock, mesas y desperdicio | Next.js / Chart.js |
+| [**PLC S7-1200**](https://github.com/Braxlo/frontend_plc) · [backend](https://github.com/Braxlo/plc_backend) | Monitoreo en tiempo real de variables PLC | Next.js / NestJS |
+| [**notes**](https://github.com/Braxlo/notes-frontend) · [backend](https://github.com/Braxlo/notes-backend) | App de notas full stack | TypeScript |
 | [**gestionar_estudiantes**](https://github.com/Braxlo/gestionar_estudiantes) | Sistema para gestión de estudiantes | TypeScript |
 | [**Trámite Documentario**](https://github.com/Braxlo/Tr-mite_Documentario) | Flujo digital de trámites documentarios | TypeScript |
-| [**Django_blog**](https://github.com/Braxlo/Django_blog) | Blog construido con Django | Django / HTML |
-| [**Django_Nots**](https://github.com/Braxlo/Django_Nots) | Notas y práctica con Django | Django / HTML |
 
 </div>
 
