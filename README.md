@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-07090D?style=for-the-badge&logo=nextdotjs&logoColor=3ECFBF" alt="Rol" />
   <img src="https://img.shields.io/badge/Huaraz%2C%20%C3%81ncash%2C%20Per%C3%BA-07090D?style=for-the-badge&logo=googlemaps&logoColor=E4D2A0" alt="Ubicación" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-0E7490?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Disponible" />
-  <a href="https://komarev.com/ghpvc/?username=Braxlo&label=Profile%20views&color=3ecfbf&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Braxlo&label=Profile%20views&color=3ecfbf&style=for-the-badge" alt="Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Braxlo&label=Profile%20views&color=3ecfbf&style=for-the-badge" alt="Views" />
 </div>
 
 <br />
@@ -34,7 +32,7 @@
 
 ---
 
-## Sobre mí
+## `$ whoami`
 
 Hola, soy **Brayam Max Yauri Villajuan** (`@Braxlo`).
 
@@ -61,94 +59,79 @@ Diseño y desarrollo sistemas **full stack** con foco en **arquitectura**, **aut
 
 ---
 
-## Stack tecnológico
+## `$ cat tech-stack.yaml`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,python,django,postgres,mysql,docker,git,github,vscode&theme=dark" alt="Stack overview" />
+
+<table border="1" cellpadding="14" bgcolor="#0b1218">
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>braxlo:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <code>◆ languages_frameworks:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,python,django,laravel,php" alt="Languages and frameworks"><br>
+        <sub><code>TypeScript · JavaScript · Node.js · NestJS · React · Next.js · Python · Django · Laravel · PHP</code></sub>
+      </td>
+      <td width="50%" valign="top">
+        <code>◆ databases:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" alt="Databases"><br>
+        <sub><code>PostgreSQL · MySQL · MongoDB · Prisma · TypeORM</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <code>◆ containers_ci_cd:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash,vercel" alt="Containers and CI/CD"><br>
+        <sub><code>Docker · Docker Compose · Linux · GitHub Actions · Bash · Vercel · Dokploy</code></sub>
+      </td>
+      <td valign="top">
+        <code>◆ cloud_infrastructure:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=aws,azure,linux" alt="Cloud infrastructure"><br>
+        <sub><code>AWS fundamentals · Azure fundamentals · Linux servers</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <code>◆ realtime_iot_messaging:</code><br><br>
+        <img src="https://cdn.simpleicons.org/eclipsemosquitto/3C5280?viewbox=auto" height="48" alt="MQTT">&nbsp;
+        <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF?viewbox=auto" height="48" alt="Socket.IO">&nbsp;
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs" alt="Realtime backend"><br>
+        <sub><code>MQTT · Socket.IO · WebSocket · LoRa · realtime dashboards</code></sub>
+      </td>
+      <td valign="top">
+        <code>◆ security_auth:</code><br><br>
+        <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF?viewbox=auto" height="48" alt="JWT">&nbsp;
+        <img src="https://cdn.simpleicons.org/auth0/EB5424?viewbox=auto" height="48" alt="Auth RBAC">&nbsp;
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman"><br>
+        <sub><code>JWT · RBAC / roles · REST API security · Postman</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <code>◆ monitoring_operations:</code><br><br>
+        <img src="https://cdn.simpleicons.org/grafana/F46800?viewbox=auto" height="48" alt="Dashboards">&nbsp;
+        <img src="https://skillicons.dev/icons?i=postman,github" alt="Ops tools"><br>
+        <sub><code>Realtime dashboards · audit trails · API testing · ops workflows</code></sub>
+      </td>
+      <td valign="top">
+        <code>◆ iac_tooling:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" alt="IaC and tooling"><br>
+        <sub><code>Docker Compose · Git · GitHub · CI/CD focus · VS Code · Figma</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: open_to_work&nbsp;&nbsp;·&nbsp;&nbsp;focus: fullstack + industrial platforms</code></td>
+    </tr>
+  </tfoot>
+</table>
+
 </div>
-
-<br />
-
-### Lenguajes
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-### Frameworks & Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn" />
-</p>
-
-### Frameworks & Backend
-<p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-### Containers & Deploy
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Dokploy-0E7490?style=flat-square&logo=docker&logoColor=white" alt="Dokploy" />
-</p>
-
-### Cloud & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/AWS_fundamentals-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Linux_Servers-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### Messaging · Realtime · IoT
-<p>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/WebSocket-0E7490?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
-  <img src="https://img.shields.io/badge/LoRa-3ECFBF?style=flat-square&logo=lighthouse&logoColor=black" alt="LoRa" />
-</p>
-
-### Security & Auth
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/RBAC_Roles-E4D2A0?style=flat-square&logo=auth0&logoColor=black" alt="RBAC" />
-  <img src="https://img.shields.io/badge/REST_API_Security-0E7490?style=flat-square&logo=openapiinitiative&logoColor=white" alt="API Security" />
-</p>
-
-### Monitoring & Operations
-<p>
-  <img src="https://img.shields.io/badge/Realtime_Dashboards-3ECFBF?style=flat-square&logo=grafana&logoColor=black" alt="Dashboards" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Audit_Trails-07090D?style=flat-square&logo=checkmarx&logoColor=3ECFBF" alt="Audit" />
-</p>
-
-### IaC · Tooling · Workflow
-<p>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Compose" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/CI%2FCD_focus-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
 
 ---
 
@@ -202,7 +185,7 @@ Diseño y desarrollo sistemas **full stack** con foco en **arquitectura**, **aut
 
 ---
 
-## Contacto
+## `$ connect --socials`
 
 <div align="center">
 
